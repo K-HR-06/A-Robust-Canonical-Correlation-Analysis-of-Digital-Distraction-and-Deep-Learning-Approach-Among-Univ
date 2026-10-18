@@ -1,4 +1,4 @@
-# Multivariate Statistics: Digital Distraction and Deep Learning Approach
+# A Robust Canonical Correlation Analysis of Digital Distraction and Deep Learning Approach Among University Students
 
 A Multivariate Statistics group project exploring the relationship between digital distraction and students’ deep learning approach using **Robust Canonical Correlation Analysis (RCCA)**.
 
